@@ -80,7 +80,7 @@ To run real time inference using a cam device or a video stream you can run the 
 
 ## Multiple Objects Detection 
 ### Features Extraction
-To extract the features from Pascal VOC datasets using a pretend model you can use the following command:
+To extract the features from Pascal VOC datasets using a pretrained model you can use the following command:
 
 `$python features_extraction.py --pretrained resnet18`
 
