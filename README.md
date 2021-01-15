@@ -1,4 +1,4 @@
-# Transfer Learning For ObjectDetection
+# Transfer Learning For Object Detection
 In this work we explore domain adaptation transfer learning with the frozen strategy. For single and multiple object detection tasks. We experiment several pretrained model as features extractor. A simple feedforward network has been used as features classifier for a single object detection and a Fully Convolutional network with YOLO approach in multiple object detection case. We perform those models on Pascal VOC 2012 dataset, and we test them in inferece for real time object detection.
 
 ## Data Exploration
