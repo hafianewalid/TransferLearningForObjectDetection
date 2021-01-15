@@ -14,7 +14,7 @@ The statistics results should look like the following:
 ## Single Object Detection 
 ### Features Extraction
 There are several pretrained models we can use it as features extractor. The features will be saved in a specific format according to the task, single or multiple object. Those features will feed subseqencely an FeedForWard neural network.
-To extract the features from Pascal VOC datasets using a pretend model you can use the following command:
+To extract the features from Pascal VOC datasets using a pretrained model you can use the following command:
 
 `$python features_extraction.py --pretrained resnet18 --model_type True`
 
