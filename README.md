@@ -8,7 +8,7 @@ In order to get a general idea about Pascal VOC 2012 objects, We have implemente
 
 The statistics results should look like the following:
 
-<img src="https://drive.google.com/uc?export=view&id=10fyE-IRpl6HDX50cNy1vvREPWBq34FQ_" width="500" height="500">
+<img src="https://drive.google.com/uc?export=view&id=10fyE-IRpl6HDX50cNy1vvREPWBq34FQ_?raw=true" width="500" height="500">
 
 ## Single Object Detection 
 ### Features Extraction
